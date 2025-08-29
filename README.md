@@ -1,0 +1,1 @@
+# JobPilotX\n\nExperimental Job Finder + Automation Bot scaffold.
